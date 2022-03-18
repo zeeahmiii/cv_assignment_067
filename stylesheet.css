@@ -1,0 +1,137 @@
+.header{
+    background-color: rgb(226, 191, 95);
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.img{
+    
+    background-color: none;
+    border: solid 2px;
+    
+    border-radius: 90px;
+    margin-left: 1rem;
+    
+}
+.img1{
+    padding-top: 0.55rem;
+}
+.Pdetail{
+    justify-content: center;
+    padding-left: 10rem;
+}
+.name{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.number{
+    font-size: 17px;
+    
+    
+    line-height: 25%;
+}
+.number{
+    margin-left: 1rem;
+}
+#work_experience{
+    text-align: center;
+    font-size: 40px;
+    background-color:rgb(197, 195, 193) ;
+    padding: 0.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+.work_experience{
+    text-align: center;
+  
+    padding-top: 1rem;
+    flex-wrap: wrap;
+    padding-bottom: 4rem;
+    padding-right: 15rem;
+}
+.exp{
+    display: flex;
+    justify-content: space-around;
+}
+.para{
+    font-size: larger;
+    line-height: 20px;
+  padding-right: 5rem;
+    text-align: justify;
+  text-justify: inter-word;
+  flex-wrap: wrap;
+}
+.paraa{
+    padding-top: 3rem;
+    text-align: justify;
+  text-justify: inter-word;
+  font-size: 20px;
+  margin-left: 12rem;
+}
+
+#obj{
+    background-color:rgb(197, 195, 193) ;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0.5rem;
+    flex-wrap: wrap;
+    text-align: center;
+    padding-left: 2rem;
+    
+}
+.objj{
+  text-align: right;
+
+}
+
+
+.work{
+    text-align: right;
+}
+.obj_clasas{
+    justify-content: center;
+    padding-right: 10rem;
+}
+.icon1{
+    margin-right: 1rem;
+}
+.edu{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.skills{
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(197, 195, 193) ;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.eduu{
+   margin: 1rem;
+  padding: 0.5rem;
+   margin-top: 2rem;
+   background-color:rgb(197, 195, 193) ;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Education{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: none;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 16rem;
+    
+}
+.skill{
+    font-size: 20px;
+}
+.fotter{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 0.25rem;
+}
